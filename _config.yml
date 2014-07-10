@@ -1,3 +1,4 @@
 name: Netz39::Sommercamp.2014
 markdown: kramdown
 pygments: false
+timezone: Europe/Berlin
