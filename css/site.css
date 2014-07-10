@@ -1,3 +1,39 @@
+body {
+  color: #333333;
+}
+
+a {
+  color: #428bca;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #428bca;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #2a6496;
+  text-decoration: underline;
+}
+
 .wordwrap {
   word-wrap: break-word;
+}
+
+table {
+  width: 100%;
+  border: 1px solid #dddddd;
+}
+
+th {
+  border-bottom: 2px solid #dddddd;
+  border-left: 1px solid #dddddd;
+  border-right: 1px solid #dddddd;
+  padding: 8px;
+}
+
+td {
+  border: 1px solid #dddddd;
+  padding: 8px;
 }
