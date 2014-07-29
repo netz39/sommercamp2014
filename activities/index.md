@@ -8,5 +8,9 @@ Um Vorträge, Workshops oder sonstige Veranstaltungen anzumelden, sendet uns bit
 |---
 | Name | Type | Dauer | Kosten
 |:-|:-|:-|:-
-| Rope Splicing | Workshop | 2 Stunden | -
+| Duschen bauen | Workshop | 1 Tag | -
+| Seilspleißen | Workshop | 2 Stunden | -
+| Wasserraketen | Workshop | 1,5 Stunden | -
+| Häkeln und Stricken | Workshop | 2 Stunden | -
+| Bitcoin | Vortrag | - | -
 |---
