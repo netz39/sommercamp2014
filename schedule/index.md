@@ -37,5 +37,6 @@ title: Zeitplan
 |---
 | Name | Type | Ort | Zeit | Dauer | Kosten
 |:-|:-|:-|:-|:-|:-
-| Wasserraketen 2 | Workshop | Outdoor | 13:00 | 2 Stunden | -
+| Geodesic structures | Workshop | Outdoor | 11:00 | 2 Stunden | -
+| Wasserraketen 2 | Workshop | Outdoor | 14:00 | 2 Stunden | -
 |---
