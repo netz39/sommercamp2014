@@ -3,8 +3,6 @@ layout: singlerow
 title: Zeitplan
 ---
 
-Dieser Zeitplan ist vorläufig!!!
-
 ### Tag 1
 
 |---
@@ -18,8 +16,8 @@ Dieser Zeitplan ist vorläufig!!!
 |---
 | Name | Type | Ort | Zeit | Dauer | Kosten
 |:-|:-|:-|:-|:-|:-
-| Seilspleißen | Workshop | Outdoor | 13:00 | 2-3 Stunden | -
-| Welding (learn how to melt steal and iron \o/) | Workshop | Outdoor | 16:00 | 2-3 Stunden | ?
+| Häkeln und Stricken | Workshop | Outdoor | 14:00 | 2-3 Stunden | ?
+| AVR 101 (learn the basics about microcontrollers) | Workshop | Festsaal | 19:00 | 2 Stunden | -
 |---
 
 ### Tag 3
@@ -27,8 +25,9 @@ Dieser Zeitplan ist vorläufig!!!
 |---
 | Name | Type | Ort | Zeit | Dauer | Kosten
 |:-|:-|:-|:-|:-|:-
-| Wasserraketen | Workshop | Outdoor | 13:00 | 3-4 Stunden | -
-| Häkeln und Stricken | Workshop | Festsaal | 16:00 | 2-3 Stunden | ?
+| Wasserraketen 1 | Workshop | Outdoor | 13:00 | 3-4 Stunden | -
+| Seilspleißen | Workshop | Outdoor | 17:00 | 2-3 Stunden | -
+| Bitcoin | Discussion | Festsaal/Outdoor | 20:00 | 2 Stunden | -
 |---
 
 ### Tag 4
@@ -36,5 +35,5 @@ Dieser Zeitplan ist vorläufig!!!
 |---
 | Name | Type | Ort | Zeit | Dauer | Kosten
 |:-|:-|:-|:-|:-|:-
-| Geodesic structures | Workshop | Outdoor | 13:00 | 2-3 Stunden | -
+| Wasserraketen 2 | Workshop | Outdoor | 13:00 | 2 Stunden | -
 |---

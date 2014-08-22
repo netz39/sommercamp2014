@@ -6,13 +6,14 @@ title: Aktivitäten
 Um Vorträge, Workshops oder sonstige Veranstaltungen anzumelden, sendet uns bitte eine E-Mail mit den entsprechenden Daten an **sommercamp at netz39 punkt de**.
 
 |---
-| Name | Type | Dauer | Kosten
-|:-|:-|:-|:-
-| Duschen bauen | Workshop | 1 Tag | -
-| Seilspleißen | Workshop | 2 Stunden | -
-| Wasserraketen | Workshop | 1,5 Stunden | -
-| Häkeln und Stricken | Workshop | 2 Stunden | -
-| Bitcoin | Vortrag | - | -
-| Welding (learn how to melt steal and iron \o/) | Workshop | - | -
-| Geodesic structures | Workshop | - | -
+| Name | Type | Dauer | Kosten | Status
+|:-|:-|:-|:-|:-
+| Duschen bauen | Workshop | 1 Tag | - | Done
+| Seilspleißen | Workshop | 2 Stunden | - | upcoming
+| Wasserraketen | Workshop | 1,5 Stunden | - | upcoming
+| Häkeln und Stricken | Workshop | 2 Stunden | - | upcoming
+| Bitcoin | Discussion | 2 Stunden | - | upcoming
+| Welding (learn how to melt steal and iron \o/) | Workshop | - | - | canceled
+| Geodesic structures | Workshop | - | - | canceled
+| AVR 101 (learn the basics about microcontrollers) | Workshop | 2 Stunden | - | upcoming
 |---
