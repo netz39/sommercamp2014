@@ -19,7 +19,7 @@ title: Zeitplan
 |:-|:-|:-|:-|:-|:-
 | Hauptzeltaufbau 2 | Workshop | Outdoor | 11:00 | 1-2 Stunden | -
 | Häkeln und Stricken | Workshop | Outdoor | 14:00 | 2-3 Stunden | ?
-| AVR 101 (learn the basics about microcontrollers) | Workshop | Festsaal | 19:00 | 2 Stunden | -
+| AVR 101 (learn the basics about microcontrollers) | Workshop | Festsaal | 20:30 | 2 Stunden | -
 |---
 
 ### Tag 3
