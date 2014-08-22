@@ -9,6 +9,7 @@ title: Zeitplan
 | Name | Type | Ort | Zeit | Dauer | Kosten
 |:-|:-|:-|:-|:-|:-
 | Duschen bauen | Workshop | Outdoor | 10:00 | mehrere Stunden | -
+| Hauptzeltaufbau 1 | Workshop | Outdoor | 14:00 | mehrere Stunden | -
 |---
 
 ### Tag 2
@@ -16,6 +17,7 @@ title: Zeitplan
 |---
 | Name | Type | Ort | Zeit | Dauer | Kosten
 |:-|:-|:-|:-|:-|:-
+| Hauptzeltaufbau 2 | Workshop | Outdoor | 11:00 | 1-2 Stunden | -
 | Häkeln und Stricken | Workshop | Outdoor | 14:00 | 2-3 Stunden | ?
 | AVR 101 (learn the basics about microcontrollers) | Workshop | Festsaal | 19:00 | 2 Stunden | -
 |---
