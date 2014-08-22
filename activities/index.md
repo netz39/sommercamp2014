@@ -9,10 +9,10 @@ Um Vorträge, Workshops oder sonstige Veranstaltungen anzumelden, sendet uns bit
 | Name | Type | Dauer | Kosten | Status
 |:-|:-|:-|:-|:-
 | Duschen bauen | Workshop | 1 Tag | - | done
-| Hauptzeltaufbau | Workshop | 1 Tag | - | in progress
+| Hauptzeltaufbau | Workshop | 1 Tag | - | done
 | Seilspleißen | Workshop | 2 Stunden | - | upcoming
 | Wasserraketen | Workshop | 1,5 Stunden | - | upcoming
-| Häkeln und Stricken | Workshop | 2 Stunden | - | upcoming
+| Häkeln und Stricken | Workshop | 2 Stunden | - | in progress
 | Bitcoin | Discussion | 2 Stunden | - | upcoming
 | AVR 101 (learn the basics about microcontrollers) | Workshop | 2 Stunden | - | upcoming
 | Geodesic structures | Workshop | 2 Stunden | - | upcoming
