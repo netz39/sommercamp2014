@@ -12,7 +12,7 @@ Um Vorträge, Workshops oder sonstige Veranstaltungen anzumelden, sendet uns bit
 | Hauptzeltaufbau | Workshop | 1 Tag | - | done
 | Häkeln und Stricken | Workshop | 2 Stunden | - | done
 | AVR 101 (learn the basics about microcontrollers) | Workshop | 2 Stunden | - | done
-| Wasserraketen | Workshop | Stunden | - | in progress
+| Wasserraketen | Workshop | Stunden | - | done
 | Seilspleißen | Workshop | 2 Stunden | - | done
 | Bitcoin | Discussion | 2 Stunden | - | done
 | Geodesic structures | Workshop | 2 Stunden | - | done
