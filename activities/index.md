@@ -16,5 +16,5 @@ Um Vorträge, Workshops oder sonstige Veranstaltungen anzumelden, sendet uns bit
 | Seilspleißen | Workshop | 2 Stunden | - | done
 | Bitcoin | Discussion | 2 Stunden | - | done
 | Geodesic structures | Workshop | 2 Stunden | - | done
-| Welding (learn how to melt steal and iron \o/) | Workshop | - | - | canceled
+| Welding (learn how to melt steal and iron \o/) | Workshop | - | - | cancled
 |---
