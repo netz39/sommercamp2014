@@ -15,6 +15,6 @@ Um Vorträge, Workshops oder sonstige Veranstaltungen anzumelden, sendet uns bit
 | Wasserraketen | Workshop | Stunden | - | in progress
 | Seilspleißen | Workshop | 2 Stunden | - | done
 | Bitcoin | Discussion | 2 Stunden | - | done
-| Geodesic structures | Workshop | 2 Stunden | - | in progress
+| Geodesic structures | Workshop | 2 Stunden | - | done
 | Welding (learn how to melt steal and iron \o/) | Workshop | - | - | canceled
 |---
